@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 😄👋
+- I'm developing games 2D,3D and mobil apps 
+- Unity
+- Mobil Apps
+- Firebase
+
 
 <!--
 **ilkerkanber/ilkerkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
