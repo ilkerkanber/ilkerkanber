@@ -1,5 +1,5 @@
 ### Hi 😄👋
-- I'm developing games 2D,3D and mobil apps 
+### I'm developing games 2D,3D and mobil apps 
 - Unity
 - Mobil Apps
 - Firebase
