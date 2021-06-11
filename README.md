@@ -10,6 +10,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"/>
 </a>
 
+-⏳My GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ilkerkanber&show_icons=true&theme=gotham" alt="ilkerkanber" />
 <!--
 **ilkerkanber/ilkerkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
