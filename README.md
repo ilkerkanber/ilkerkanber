@@ -8,9 +8,9 @@
 </a>
 <br>
 <h3>I'm developing games 2D,3D and mobil apps</h3> 
--Unity <br>
--Mobil Apps <br>
--Firebase
+<h6>UNITY</h6>
+<h6>Mobil Apps</h6>
+<h6>Firebase</h6>
 <br>
 <br>
 <p align="center">⏳My GitHub Stats
