@@ -6,10 +6,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"/>
 </a>
 <br>
-I'm developing games 2D,3D and mobil apps 
-- Unity
-- Mobil Apps
-- Firebase
+<h3>I'm developing games 2D,3D and mobil apps</h3> 
+-Unity <br>
+-Mobil Apps <br>
+-Firebase
 <br>
 <br>
 ⏳My GitHub Stats
