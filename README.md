@@ -5,7 +5,11 @@
 - Firebase
 <a href=https://www.linkedin.com/in/ilkerkanber/>
 <img src="https://www.yonetimdeinsan.com/wp-content/uploads/2017/01/linkedin.png" width="50" height="50"/>
-</a><!--
+</a>
+<a href=https://www.instagram.com/ilkerknbr/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"/>
+</a>
+<!--
 **ilkerkanber/ilkerkanber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
