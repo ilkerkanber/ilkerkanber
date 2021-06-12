@@ -8,6 +8,7 @@
 </a>
 <br>
 <h3>I'm developing games 2D,3D and mobil apps</h3> 
+<h5>C#,Java,Sql
 <h6>UNITY</h6>
 <h6>Mobil Apps</h6>
 <h6>Firebase</h6>
