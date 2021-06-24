@@ -7,11 +7,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"/>
 </a>
 <br>
-<h3>I'm developing games 2D,3D and mobil apps</h3> 
-<h5>C#,Java,Sql
-<h6>UNITY</h6>
-<h6>Mobil Apps</h6>
-<h6>Firebase</h6>
+<h2>I'm developing now,games 2D,3D and mobil apps</h3> 
+<h4>Languages</h4>
+<a href=""/>
+<img src="https://bilisimacademy.com/egitimlerimiz/wp-content/uploads/2021/03/C-Sharp-egitimi.png" width="80" height="60"/>
+<img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" width="70" height="70"/>
+<img src="http://www.ecozumbilgisayar.com/assets/images/mssqlserver-320x239.png" width="70" height="70"/>
+<h3>*Unity</h3>
+<h3>*Firebase</h3>
+<h3>*Android Studio</h3>
 <br>
 <br>
 <p align="center">⏳My GitHub Stats
