@@ -7,7 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" height="50"/>
 </a>
 <br>
-<h2>I'm developing now,games 2D,3D and mobil apps</h3> 
+<h2>I'm developing games, mobil and desktop apps</h3> 
 <h4>Languages</h4>
 <a href=""/>
 <img src="https://bilisimacademy.com/egitimlerimiz/wp-content/uploads/2021/03/C-Sharp-egitimi.png" width="80" height="60"/>
