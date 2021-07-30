@@ -10,7 +10,7 @@
 <h2>I'm developing games, mobil and desktop apps</h3> 
 <h4>Languages</h4>
 <a href=""/>
-<img src="https://bilisimacademy.com/egitimlerimiz/wp-content/uploads/2021/03/C-Sharp-egitimi.png" width="80" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="60" height="60"/>
 <img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" width="70" height="70"/>
 <h3>*Unity</h3>
 <h3>*Android Studio</h3>
